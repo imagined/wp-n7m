@@ -1,0 +1,7 @@
+{
+  "name": "imagined/wp-n7m",
+  "type": "wordpress-plugin",
+  "autoload": {
+    "psr-4": {"Imagined\\": "."}
+  }
+}
